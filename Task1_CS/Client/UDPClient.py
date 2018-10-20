@@ -1,9 +1,10 @@
+# coding: utf-8
+# encoding: utf-8
 import socket
 import sys
-
 ####################################### 变量初始化
 # 服务端下载的文件的的存放路径
-filePath = "C:\\Users\\Qiuyh\\Desktop\\ComNetProject1\\Task1_CS\\Client\\clientData\\"
+filePath = "C:\\Users\\Administrator\\Desktop\\ComNetProject1\\Task1_CS\\Client\\clientData\\"
 #######################################  加密解密函数
 
 
