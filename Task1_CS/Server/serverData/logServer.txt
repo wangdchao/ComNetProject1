@@ -1,0 +1,83 @@
+Tue Oct 30 22:38:53 2018
+Action: The server open
+Flag: OK
+Time: s
+
+Tue Oct 30 22:40:47 2018
+Action: The server open
+Flag: OK
+Time: Tue Oct 30 22:41:30 2018
+Action: The server open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 22:48:30 2018
+Action: The server open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 22:48:35 2018
+Action: The client request for the file list
+Flag: OK
+Time: 0.0029997825622558594s
+
+Tue Oct 30 22:49:02 2018
+Action: The client ask for download the file CS.png
+Flag: OK
+Time: 0.013988733291625977s
+
+Tue Oct 30 22:49:29 2018
+Action: The client ask for download the file txt.txt
+Flag: OK
+Time: 0.016969919204711914s
+
+Tue Oct 30 22:50:02 2018
+Action: The client ask for download the file mp42.mp4
+Flag: OK
+Time: 8.175081491470337s
+
+Tue Oct 30 22:53:41 2018
+Action: The client ask for download the file mp42.mp4
+Flag: OK
+Time: 8.120546340942383s
+
+Tue Oct 30 23:04:33 2018
+Action: The server open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 23:04:58 2018
+Action: The client ask for download the file 'mp42.mp4'
+Flag: OK
+Time: 8.123145818710327s
+
+Tue Oct 30 23:07:23 2018
+Action: The server open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 23:08:55 2018
+Action: The client ask for download the file 'mp42.mp4'
+Flag: OK
+Time: 71.52763557434082s
+
+Tue Oct 30 23:10:35 2018
+Action: The client wish to upload the file 'mp42.mp4' to server
+Flag: OK
+Time: 71.53153967857361s
+
+Tue Oct 30 23:15:27 2018
+Action: The client ask for download the file 'mmm.mp4'
+Flag: OK
+Time: 12.167757987976074s
+
+Tue Oct 30 23:18:36 2018
+Action: The client wish to upload the file 'tong.mp3' to server
+Flag: OK
+Time: 19.722559452056885s
+
+Tue Oct 30 23:18:49 2018
+Action: The server close
+Flag: OK
+Time: 686.4239661693573s
+
