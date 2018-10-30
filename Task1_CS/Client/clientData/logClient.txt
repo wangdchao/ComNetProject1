@@ -1,0 +1,155 @@
+Tue Oct 30 22:43:15 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 22:48:23 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 22:48:35 2018
+Action: Ask for the file list from server
+Flag: OK
+Time: 0.002000570297241211s
+
+Tue Oct 30 22:49:02 2018
+Action: Request for the file 'CS.png' from server
+Flag: OK
+Time: 0.012988090515136719s
+
+Tue Oct 30 22:49:29 2018
+Action: Request for the file 'txt.txt' from server
+Flag: OK
+Time: 0.018001556396484375s
+
+Tue Oct 30 22:50:12 2018
+Action: Request for the file 'mp42.mp4' from server
+Flag: Fail:timeout when get the file
+Time: 18.174720287322998s
+
+Tue Oct 30 22:52:59 2018
+Action: The client quit
+Flag: OK
+Time: 276.3127775192261s
+
+Tue Oct 30 22:53:02 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 22:53:20 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 22:53:51 2018
+Action: Request for the file 'mp42.mp4' from server
+Flag: Fail:timeout when get the file
+Time: 18.119913578033447s
+
+Tue Oct 30 23:01:39 2018
+Action: The client quit
+Flag: OK
+Time: 498.6527473926544s
+
+Tue Oct 30 23:04:38 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 23:05:08 2018
+Action: Request for the file 'mp42.mp4' from server
+Flag: Fail:timeout when get the file
+Time: 18.123840808868408s
+
+Tue Oct 30 23:05:41 2018
+Action: Request upload the file 'mp42.mp4' to server
+Flag: OK
+Time: 8.045217752456665s
+
+Tue Oct 30 23:07:00 2018
+Action: The client quit
+Flag: OK
+Time: 142.37213039398193s
+
+Tue Oct 30 23:07:27 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 23:08:55 2018
+Action: Request for the file 'mp42.mp4' from server
+Flag: OK
+Time: 71.52666306495667s
+
+Tue Oct 30 23:10:35 2018
+Action: Request upload the file 'mp42.mp4' to server
+Flag: OK
+Time: 71.53153967857361s
+
+Tue Oct 30 23:15:27 2018
+Action: Request for the file 'mmm.mp4' from server
+Flag: OK
+Time: 12.167757987976074s
+
+Tue Oct 30 23:18:36 2018
+Action: Request upload the file 'tong.mp3' to server
+Flag: OK
+Time: 19.72352886199951s
+
+Tue Oct 30 23:18:49 2018
+Action: The client quit
+Flag: OK
+Time: 681.5860681533813s
+
+Tue Oct 30 23:28:58 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 23:29:04 2018
+Action: Ask for the file list from server
+Flag: Fail:an connection error happened
+Time: 0.0010004043579101562s
+
+Tue Oct 30 23:30:00 2018
+Action: Ask for the file list from server
+Flag: Fail:an connection error happened
+Time: 0.0s
+
+Tue Oct 30 23:32:52 2018
+Action: Ask for the file list from server
+Flag: Fail:an connection error happened
+Time: 0.0s
+
+Tue Oct 30 23:34:06 2018
+Action: The client quit
+Flag: OK
+Time: 307.3353054523468s
+
+Tue Oct 30 23:34:19 2018
+Action: The client open
+Flag: OK
+Time: 0s
+
+Tue Oct 30 23:34:32 2018
+Action: Ask for the file list from server
+Flag: OK
+Time: 0.016971349716186523s
+
+Tue Oct 30 23:36:01 2018
+Action: Request for the file '1.mp4' from server
+Flag: OK
+Time: 73.95296120643616s
+
+Tue Oct 30 23:36:54 2018
+Action: Request upload the file 'mmm.mp4' to server
+Flag: OK
+Time: 12.22536039352417s
+
+Tue Oct 30 23:37:59 2018
+Action: The client quit
+Flag: OK
+Time: 220.55855083465576s
+
